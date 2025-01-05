@@ -11,4 +11,4 @@ Repositório contendo os diagramas de circuitos montados para os laboratórios d
 ![image](https://github.com/Guilhermwn/Circuitos-Digitais-2022.2/assets/32494940/1a95f54d-0d02-4eb2-92fb-12398a497bb9)
 
 **Circuito do Experimento 08**
-![image](https://github.com/Guilhermwn/Circuitos-Digitais-2022.2/assets/32494940/b0712d34-258f-49fd-a11f-a17a0d38b950)
+![image](https://github.com/user-attachments/assets/ff6463bb-3e14-4e96-b8f9-1fc8e3699e89)
