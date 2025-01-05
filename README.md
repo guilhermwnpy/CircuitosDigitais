@@ -2,7 +2,7 @@
 Repositório contendo os diagramas de circuitos montados para os laboratórios da matéria de Circuitos Digitais, cursado por mim no período de 2022.2 da Universidade Federal de Sergipe, cursando a Graduação de Engenharia Eletrônica.
 
 **Circuito do Experimento 04**
-![image](https://github.com/Guilhermwn/Circuitos-Digitais-2022.2/assets/32494940/e2478a6d-5aac-48fc-a2a9-edd1d4c4314b)
+![image](https://github.com/user-attachments/assets/e6f0fb1a-540e-4118-9cb2-42f26fe5e14b)
 
 **Circuito do Experimento 05**
 ![image](https://github.com/Guilhermwn/Circuitos-Digitais-2022.2/assets/32494940/ff482097-3d49-422c-979e-203a159e1604)
